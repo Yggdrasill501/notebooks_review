@@ -1,2 +1,2 @@
-# notebooks_review
+# Notebooks Review
 Deepnote + ReviewNB + GitHub
